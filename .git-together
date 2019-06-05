@@ -1,0 +1,5 @@
+[git-together "authors"]
+	cd = "cari dean; cdean"
+	dr = "desmond pompa alarcon rawls; drawls"
+[git-together]
+	domain = pivotal.io
